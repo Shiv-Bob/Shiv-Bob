@@ -15,15 +15,26 @@ I am a working software professional specializing in **Microsoft Dynamics 365 Bu
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🧰 Languages and Tools
 
 ![Microsoft](https://img.shields.io/badge/Microsoft-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Dynamics 365](https://img.shields.io/badge/Dynamics%20365-002050?style=for-the-badge&logo=microsoftdynamics&logoColor=white)
 ![Business Central](https://img.shields.io/badge/Business%20Central-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![AL Language](https://img.shields.io/badge/AL%20Language-0A66C2?style=for-the-badge)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+<p align="left">
+  <!-- Docker -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+
+  <!-- Git -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+
+  <!-- PowerShell -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="40" height="40"/>
+</p>
+
 
 ---
 
@@ -44,8 +55,10 @@ I am a working software professional specializing in **Microsoft Dynamics 365 Bu
 
 ---
 
-## 🤝 Connect With Me
-- 💼 GitHub: https://github.com/Shiv-Bob
+## 📫 How to reach me
+
+- 📧 Email: **shivambobde7@gmail.com**
+- 💼 LinkedIn: https://www.linkedin.com/in/shivambobde
 
 ---
 
