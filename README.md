@@ -4,6 +4,7 @@
 
 I am a working software professional specializing in **Microsoft Dynamics 365 Business Central**, with strong hands-on experience in **AL (Application Language)**. I focus on building scalable, maintainable, and business-driven ERP solutions.
 
+🎯 **Microsoft Certified: Dynamics 365 Business Central Developer Associate (MB-820, 2026)**
 ---
 
 ## 🧠 About Me
